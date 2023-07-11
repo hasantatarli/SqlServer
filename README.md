@@ -4,3 +4,5 @@ Welcome to my Sql Server playland. You will find some Sql Server related codes t
 This page will be a living page and I will update whenever I added/deleted/changed codes.
 
 # What is in here?
+### Backup Codes
+* Backup_GetLastSuccessfulackupList
