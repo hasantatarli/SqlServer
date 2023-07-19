@@ -5,4 +5,6 @@ This page will be a living page and I will update whenever I added/deleted/chang
 
 # What is in here?
 ### Backup Codes
-  * <a href="Backup_GetLastSuccessfulackupList.sql" >Backup_GetLastSuccessfulackupList</a>
+  * <a href="Backup_GetLastSuccessfulBackupList.sql">Backup_GetLastSuccessfulackupList</a>
+  * <a href="Backup_GetBackupDetails.sql">Backup_GetBackupDetails</a>
+
