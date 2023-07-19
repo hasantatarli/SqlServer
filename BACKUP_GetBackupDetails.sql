@@ -1,5 +1,5 @@
-DECLARE @BackupStartDateBegin date --= '20230101'
-DECLARE @BackupStartDateFinish date = '20230101'
+DECLARE @BackupStartDateBegin date 
+DECLARE @BackupStartDateFinish date
 DECLARE @DatabaseName varchar(128) = 'BANK'
 DECLARE @BackupType char(1) = '' -- D: Full, L: Log, I: Differential, F: File/File Group Backup Type
 DECLARE @cmd varchar(max) = ''
